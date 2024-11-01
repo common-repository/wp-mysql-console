@@ -1,0 +1,2 @@
+23.9.06 - Firefox'daki sözcük kaydýrma hatasý giderildi. (Ayrýntý:tinyurl.com/ffg36)
+12.9.06 - Fareyle secilen metin panoya kopyalanýyor.

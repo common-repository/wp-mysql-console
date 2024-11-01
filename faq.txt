@@ -1,0 +1,4 @@
+
+
+Q1) I'm getting UniversalXPConnect error when I select a text in Firefox
+A1) PMC has support for select-copy to clipboard operations such as real *nix tty. To fix this problem please chek out http://tinyurl.com/qkh5j
